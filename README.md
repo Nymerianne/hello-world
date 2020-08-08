@@ -1,3 +1,3 @@
 # hello-world
-exercises in C
+exercises in C/n
 These are from the "C programming language" book by Bryan W. Kernighan and Dennis M. Ritchie.
