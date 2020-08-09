@@ -1,4 +1,4 @@
- #include<stdio.h>
+ #include <stdio.h>
 
  /* count blanks, tabs and newlines in input */
 
