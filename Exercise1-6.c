@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /* verify that the expression is 0 or 1 */
-main()
+int main()
 {
-  printf("%d", getchar() != EOF);
+    printf("%d", getchar() != EOF);
+
+    return 0;
 }
