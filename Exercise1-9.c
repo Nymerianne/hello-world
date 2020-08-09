@@ -7,16 +7,16 @@ int main()
     int c;
 
     c = getchar();
-    printf("\n");
-    
-    while(c != EOF) {
-        if(c == ' ') {
-            while((c = getchar()) == ' ') {
+    printf ("\n");
+
+    while (c != EOF) {
+        if (c == ' ') {
+            while ((c = getchar()) == ' ') {
                 ;
             }
             printf(" ");
         }
-        if(c != ' ') {
+        if (c != ' ') {
             printf("%c", c);
         }
         c = getchar();
