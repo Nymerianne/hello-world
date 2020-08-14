@@ -21,6 +21,8 @@ int main()
             nr++;
         }
     }
+
     printf ("The input text has %d characters in total", totalchars);
+    
     return 0;
 }
